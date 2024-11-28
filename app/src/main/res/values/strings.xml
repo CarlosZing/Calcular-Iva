@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Iva Calculator</string>
+    <string name="text2">Enter the mont</string>
+    <string name="text3">Choose the option</string>
+    <string name="text4"></string>
+    <string name="editText">Mont</string>
+    <string name="button1">Calculate</string>
+    <string-array name="spinner">
+        <item>Standard</item>
+        <item>Border</item>
+    </string-array>
+</resources>

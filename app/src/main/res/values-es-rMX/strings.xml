@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora De Iva</string>
+    <string name="text2">Ingresa la cantidad</string>
+    <string name="text3">Selecciona una opcion</string>
+    <string name="text4"></string>
+    <string name="editText">Mont</string>
+    <string name="button1">Calcular</string>
+    <string-array name="spinner">
+        <item>Normal</item>
+        <item>Fronterizo</item>
+    </string-array>
+</resources>
